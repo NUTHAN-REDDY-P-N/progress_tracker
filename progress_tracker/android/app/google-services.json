@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050949341775",
+    "project_id": "progress-tracker-150106",
+    "storage_bucket": "progress-tracker-150106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050949341775:android:8ad56816b619586c33903a",
+        "android_client_info": {
+          "package_name": "com.example.progress_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOQZu_cZQVs8Lvpv4QmMclrRW1-jZ9RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
